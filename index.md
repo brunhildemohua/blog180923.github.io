@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+## 安徽师范大学数学计算机科学学院专业介绍
+数学与应用数学专业、统计学专业、计算机科学与技术专业软件工程专业、软件工程专业、物联网工程专业。
+数学与应用数学专业：本专业始建于1929年，是全国建立较早的数学本科专业之一。近年来，本专业第一志愿的报考率在省属高校中位列前茅，在全校各专业中位居前列。本专业录取生源全部是一志愿考生，录取最低分数线均高于安徽省一本线，2014年和2015年的最低录取分数线分别高出省内一本线20分和26分，且本专业吸引大批外省考生，近两年录取外省考生比例达到30%左右。本专业有很好的办学声誉,进校后，每年有40名左右校内其他专业学生通过考试转入本专业学习。
+统计学专业：本专业主要培养学生掌握数学、经济学知识，成为专长于应用统计方法对各种数据进行处理和分析的实用型和通用型人才。近年来，学生在美国大学生数学建模、全国大学生数学建模比赛中先后荣获国际奖项7项，国家（全国）级奖项12项，省（厅）级36项，获奖学生50余人次。毕业生的初次就业率稳定在95%以上，主要在政府、企事业单位和金融保险等部门从事统计调查、统计信息处理、投资分析和风险管理等方面工作。
+计算机科学与技术专业：本专业推行“实习实训就业一体化”，注重校企合作，培养学生掌握数学、计算机、网络与信息系统相关的基础理论、基本知识、基本技能和基本方法。近五年就业率均在98%以上，主要在企事业单位、政府机关、行政管理部门从事计算机科学与技术研究和，硬件、软件和网络应用系统开发，以及网络和计算机应用、管理和维护，其中2015年考研率23%，绝大多数进入985、211高校深造。
+软件工程专业：本专业推行“实习实训就业一体化”，注重校企合作，注重学生的实践能力、创新能力和学习能力培养。毕业生就业面广、起薪高、工作环境好。主要在软件公司﹑互联网公司、电信﹑金融、国防和智能制造装备等行业从事软件系统的分析、设计、开发、测试、运营维护、技术支持和项目管理等工作；在政府部门和企事业单位从事办公自动化、计算机安装与维护、计算机网络和服务器维护管理等工作。学生在各类学科竞赛中斩获殊荣，就业率和考研率高。
+物联网工程专业：本专业学生学风端正，学习兴趣浓厚，采取导师制加强学生科研创新训练，培养具有创新型、应用型、复合型的物联网技术管理人才，强化学生实践能力，能够胜任物联网相关领域的设计、研发、应用、服务与管理等相关岗位的工作，并为高等学校输送优质研究生。毕业班保研率达到7.14%，考研达线率46.7%；毕业生因其“基础知识扎实、动手能力强、综合素质高”受到知名行业或企业众多用人单位青睐。
 
-You can use the [editor on GitHub](https://github.com/brunhildemohua/blog180923.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+详情戳此处 [→](http://math.ahnu.edu.cn/zs2016/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/brunhildemohua/blog180923.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Design by MoHua
